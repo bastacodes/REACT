@@ -22,7 +22,7 @@ function Projects() {
       <div className="w-full max-w-3xl text-center">
         <Project_card
           title="API pro ekonomické subjekty"
-          description="Vlastní API pro poskytování dat o firmách"
+          description="Vlastní API pro poskytování dat o firmách."
           techStack="PHP / jQuery / HTML / CSS"
           features={[
             "Autorizace pomocí Bearer tokenu",
