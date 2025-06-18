@@ -1,4 +1,5 @@
 import { FaFileAlt } from "react-icons/fa";
+import bastaImg from "../../img/bastafr.jpeg";
 
 function Hero() {
   return (
@@ -6,7 +7,7 @@ function Hero() {
       <div className="flex flex-col lg:flex-row items-center lg:items-start">
         <div className="hidden lg:block flex-shrink-0 mr-10">
           <img
-            src="/img/bastafr.jpeg"
+            src={bastaImg}
             alt="František Bašta"
             className="w-56 md:w-64 lg:w-72 h-auto rounded-lg"
           />
