@@ -1,12 +1,14 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import driveplanimg from "../../img/driveplan1.png";
+import driveplanimg2 from "../../img/driveplan2.png";
+import website from "../../img/website.png";
 
 
 const images = [
   driveplanimg,
-  "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=2560&q=80",
-  "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?auto=format&fit=crop&w=2560&q=80",
+  driveplanimg2,
+  website
 ];
 
 function Carousel() {
