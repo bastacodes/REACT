@@ -1,0 +1,7 @@
+.app-background {
+  background-color: #0f0f0f;
+  background-image: 
+    linear-gradient(0deg, transparent 24%, rgba(166, 139, 251, 0.15) 25%, transparent 26%, transparent 74%, rgba(166, 139, 251, 0.05) 75%, transparent 76%, transparent),
+    linear-gradient(90deg, transparent 24%, rgba(166, 139, 251, 0.15) 25%, transparent 26%, transparent 74%, rgba(166, 139, 251, 0.05) 75%, transparent 76%, transparent);
+  background-size: 120px 120px;
+}
