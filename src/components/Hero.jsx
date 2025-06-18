@@ -29,7 +29,7 @@ function Hero() {
             className="mx-auto block w-fit lg:mx-0"
             aria-label="Otevřít životopis PDF"
           >
-            <FaFileAlt className="text-3xl md:text-6xl text-white hover:scale-110 transition-transform" />
+            <FaFileAlt className="text-3xl text-white hover:scale-110 transition-transform" />
           </a>
         </div>
       </div>
